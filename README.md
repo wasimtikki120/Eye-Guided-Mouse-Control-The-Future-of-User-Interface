@@ -26,14 +26,6 @@ We welcome contributions from the open-source community. If you wish to contribu
 
 This section will highlight potential improvements or future features, such as additional eye movement functionalities, integration of blinking gestures, or improvements in accuracy and responsiveness.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), granting users the freedom to use and modify the software within the specified terms.
-
-## Authors
-
-- [Author Name](link-to-author-profile) - Brief description or role in the project
-
 ## Acknowledgments
 
 Acknowledge any contributors, inspirations, or tools/libraries used in the project.
