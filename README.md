@@ -20,7 +20,7 @@ Demonstrate how users can effectively utilize the system, including instructions
 
 ## Contributing
 
-We welcome contributions from the open-source community. If you wish to contribute to the project, please follow the guidelines in `CONTRIBUTING.MD`.
+We welcome contributions from the open-source community. If you wish to contribute to the project, please follow the guidelines in `CONTRIBUTING.md`.
 
 ## Future Enhancements
 
